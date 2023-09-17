@@ -12,7 +12,7 @@ experiences:
   subtitle: "Opioid overdose prediction over PDMP data"
   category: "school"
 
-- place: "Qeexo, Pittsburgh"
+- place: "Qeexo"
   time: "June-Sep. 2020"
   title: "Machine Learning Engineer"
   subtitle: "Backend support for Qeexo AutoML"
@@ -30,7 +30,7 @@ experiences:
   subtitle: "Anomaly detection over health insurance claims"
   category: "work"
 
-- place: "University of Pittsburgh, Pittsburgh"
+- place: "University of Pittsburgh"
   time: "Aug 2018 - Apr. 2020"
   title: "M.S. Student"
   subtitle: "Masters in Industrial Engineering"
