@@ -6,6 +6,12 @@ papers:
     paper_pdf: "/assets/publications/DAIR.pdf"
     selected: y
 
+  - title: "Prompt Learning Unlocked for App Promotion in the Wild"
+    authors: "<b>Zhongyu Ouyang</b>, Shifu Hou, Shang Ma, Chaoran Chen, Chunhui Zhang, Chuxu Zhang, Yanfang Ye"
+    venue: "Paper under review"
+    # paper_pdf: "/assets/publications/DAIR.pdf"
+    selected: y
+
   - title: "Disentangled dynamic heterogeneous graph learning for opioid overdose prediction"
     authors: "Qianlong Wen, <b>Zhongyu Ouyang</b>, Jianfei Zhang, Yiyue Qian, Yanfang Ye, Chuxu Zhang"
     venue: "KDD'22: SIGKDD Conference on Knowledge Discovery and Data Mining"
