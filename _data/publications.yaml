@@ -7,9 +7,9 @@ papers:
     selected: y
 
   - title: "Prompt Learning Unlocked for App Promotion in the Wild"
-    authors: "<b>Zhongyu Ouyang</b>, Shifu Hou, Shang Ma, Chaoran Chen, Chunhui Zhang, Chuxu Zhang, Yanfang Ye"
-    venue: "Paper under review"
-    # paper_pdf: "/assets/publications/DAIR.pdf"
+    authors: "<b>Zhongyu Ouyang</b>, Shifu Hou, Shang Ma, Chaoran Chen, Chunhui Zhang, Toby Li, Xusheng Xiao, Chuxu Zhang, Yanfang Ye"
+    venue: "Preprint. Under review"
+    paper_pdf: "/assets/publications/PromptPromotion.pdf"
     selected: y
 
   - title: "Disentangled dynamic heterogeneous graph learning for opioid overdose prediction"
