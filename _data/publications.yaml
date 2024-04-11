@@ -1,9 +1,15 @@
 papers:
 
-  - title: "Dynamic-Calibrated Representation Alignment and Uniformity for Recommendations"
-    authors: "<b>Zhongyu Ouyang</b>, Shifu Hou, Chunhui Zhang, Chuxu Zhang, Yanfang Ye"
-    venue: "MFPL'23: The Many Facts of Preference-based Learning Workshop @ICML'23"
-    paper_pdf: "/assets/publications/DAIR.pdf"
+  # - title: "Dynamic-Calibrated Representation Alignment and Uniformity for Recommendations"
+  #   authors: "<b>Zhongyu Ouyang</b>, Shifu Hou, Chunhui Zhang, Chuxu Zhang, Yanfang Ye"
+  #   venue: "MFPL'23: The Many Facts of Preference-based Learning Workshop @ICML'23"
+  #   paper_pdf: "/assets/publications/DAIR.pdf"
+  #   selected: y
+  - title: "How to Improve Representation Alignment and Uniformity in Graph-based Collaborative Filtering?"
+    authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Shifu Hou, Chuxu Zhang, Yanfang Ye"
+    venue: "ICWSM'24: The 18th International AAAI Conference on Web and Social Media"
+    paper_pdf: "/assets/publications/AUPlus.pdf"
+    code: "https://github.com/zyouyang/AUPlus"
     selected: y
 
   - title: "Prompt Learning Unlocked for App Promotion in the Wild"
