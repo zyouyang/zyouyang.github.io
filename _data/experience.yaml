@@ -6,6 +6,12 @@ experiences:
   subtitle: "Computer Science and Engineering"
   category: "school"
 
+- place: "Microsoft"
+  time: "May 2024 - Aug 2024"
+  title: "Data Scientist Intern"
+  subtitle: "Bing Places"
+  category: "work"
+
 - place: "Case Western Reserve University"
   time: "Fall 2021"
   title: "Research Assistant"

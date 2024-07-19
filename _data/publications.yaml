@@ -12,10 +12,17 @@ papers:
     code: "https://github.com/zyouyang/AUPlus"
     selected: y
 
-  - title: "Prompt Learning Unlocked for App Promotion in the Wild"
+  - title: "Symbolic Prompt Tuning Completes the App Promotion Graph"
     authors: "<b>Zhongyu Ouyang</b>, Shifu Hou, Shang Ma, Chaoran Chen, Chunhui Zhang, Toby Li, Xusheng Xiao, Chuxu Zhang, Yanfang Ye"
-    venue: "Preprint. Under review"
+    venue: "ECML PKDD'24: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases"
     paper_pdf: "/assets/publications/PromptPromotion.pdf"
+    code: "https://github.com/zyouyang/SymPrompt"
+    selected: y
+
+  - title: "From Coarse to Fine: Enable Comprehensive Graph Self-supervised Learning with Multi-granular Semantic Ensemble"
+    authors: "Qianlong Wen, Mingxuan Ju, <b>Zhongyu Ouyang</b>, Chuxu Zhang, Yanfang Ye"
+    venue: "ICML'24: International Conference on Machine Learning"
+    paper_pdf: "/assets/publications/MGSE.pdf"
     selected: y
 
   - title: "Disentangled dynamic heterogeneous graph learning for opioid overdose prediction"
