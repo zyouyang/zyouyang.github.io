@@ -15,7 +15,7 @@ papers:
   - title: "Symbolic Prompt Tuning Completes the App Promotion Graph"
     authors: "<b>Zhongyu Ouyang</b>, Shifu Hou, Shang Ma, Chaoran Chen, Chunhui Zhang, Toby Li, Xusheng Xiao, Chuxu Zhang, Yanfang Ye"
     venue: "ECML PKDD'24: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases"
-    paper_pdf: "/assets/publications/PromptPromotion.pdf"
+    paper_pdf: "/assets/publications/SymPrompt.pdf"
     code: "https://github.com/zyouyang/SymPrompt"
     selected: y
 
