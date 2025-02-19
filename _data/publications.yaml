@@ -11,6 +11,7 @@ papers:
     paper_pdf: "/assets/publications/AUPlus.pdf"
     code: "https://github.com/zyouyang/AUPlus"
     selected: y
+    underreview: n
 
   - title: "Symbolic Prompt Tuning Completes the App Promotion Graph"
     authors: "<b>Zhongyu Ouyang</b>, Shifu Hou, Shang Ma, Chaoran Chen, Chunhui Zhang, Toby Li, Xusheng Xiao, Chuxu Zhang, Yanfang Ye"
@@ -18,24 +19,72 @@ papers:
     paper_pdf: "/assets/publications/SymPrompt.pdf"
     code: "https://github.com/zyouyang/SymPrompt"
     selected: y
+    underreview: n
+
+  - title: "Leveraging Graphs to Click-Through Rate Prediction through Test-Time Augmentation"
+    authors: "<b>Zhongyu Ouyang</b>, Mingxuan Ju, Yanfang Ye"
+    venue: "Under Review"
+    paper_pdf: "/assets/publications/tagCTR.pdf"
+    selected: y
+    underreview: y
+
+  - title: "Scaled Supervision is an Implicit Lipschitz Regularizer"
+    authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Yaning Jia, Soroush Vosoughi"
+    venue: "Under Review"
+    paper_pdf: "https://anonymous.4open.science/r/ImpLipReg-ACE5/README.md"
+    selected: y
+    underreview: y
+
+  - title: "On the Influence of Connectivity to CTR Prediction"
+    authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Yaning Jia, Soroush Vosoughi"
+    venue: "Under Review"
+    paper_pdf: "/assets/publications/lip_connect.pdf"
+    selected: y
+    underreview: y
+
+  - title: "From Thoughts to Tastes: Modeling Preference Hierarchies for Human-Aligned Sequential Recommendations"
+    authors: Qianlong Wen*, <b>Zhongyu Ouyang*</b>, Chunhui Zhang, Soroush Vosoughi, Yanfang Ye
+    venue: "Under Review, *Equal Contribution"
+    paper_pdf: "/assets/publications/recpo.pdf"
+    selected: y
+    underreview: y
+
+  - title: "Pretrained Image-Text Models are Secretly Video Captioners"
+    authors: "Chunhui Zhang, Yiren Jian, <b>Zhongyu Ouyang</b>, Soroush Vosoughi"
+    venue: "Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2025) Main Conference"
+    paper_pdf: "/assets/publications/pretrained_video_captioners.pdf"
+    code: "https://anonymous.4open.science/r/ic2vc/README.md"
+    selected: y
+    underreview: n
+
+  - title: "Working Memory Identifies Reasoning Limits in Language Models"
+    authors: "Chunhui Zhang, Yiren Jian, <b>Zhongyu Ouyang</b>, Soroush Vosoughi"
+    venue: "The Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)."
+    paper_pdf: "/assets/publications/working_memory.pdf"
+    code: ""
+    selected: y
+    underreview: n
 
   - title: "From Coarse to Fine: Enable Comprehensive Graph Self-supervised Learning with Multi-granular Semantic Ensemble"
     authors: "Qianlong Wen, Mingxuan Ju, <b>Zhongyu Ouyang</b>, Chuxu Zhang, Yanfang Ye"
     venue: "ICML'24: International Conference on Machine Learning"
     paper_pdf: "/assets/publications/MGSE.pdf"
-    selected: y
+    selected: n
+    underreview: n
 
   - title: "Disentangled dynamic heterogeneous graph learning for opioid overdose prediction"
     authors: "Qianlong Wen, <b>Zhongyu Ouyang</b>, Jianfei Zhang, Yiyue Qian, Yanfang Ye, Chuxu Zhang"
     venue: "KDD'22: SIGKDD Conference on Knowledge Discovery and Data Mining"
     paper_pdf: "/assets/publications/DDHGNN.pdf"
     selected: y
+    underreview: n
 
   - title: "Graph Contrastive Learning with cross-view Reconstruction"
     authors: "Qianlong Wen, <b>Zhongyu Ouyang</b>, Chunhui Zhang, Yiyue Qian, Chuxu Zhang"
-    venue: "NeurIPS 2022 Workshop: New Frontiers in Graph Learning"
+    venue: "The 40th Conference on Uncertainty in Artificial Intelligence"
     paper_pdf: "/assets/publications/graphCV.pdf"
-    selected: y
+    selected: n
+    underreview: n
 
   - title: "When Sparsity Meets Contrastive Models: Less Graph Data Can Bring Better Class-Balanced Representations"
     authors: "Chunhui Zhang, Chao Huang, Yiyue Tian, Qianlong Wen, <b>Zhongyu Ouyang</b>, Youhuan Li, Yanfang Ye, Chuxu Zhang"
@@ -45,9 +94,11 @@ papers:
     # data: "https://doi.org/10.7910/DVN/TRWPVB"
     # video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
     selected: y
+    underreview: n
 
   - title: "YAGG: Ce transparent ceramics with high luminous efficiency for solid-state lighting application"
     authors: "Hui Hua, Shaowei Feng, <b>Zhongyu Ouyang</b>, Hezhu Shao, Haiming Qin, Hui Ding, Qiping Du, Zhijun Zhang, Jun Jiang, Haochuan Jiang"
     venue: "Journal of Advanced Ceramics (2019)"
     paper_pdf: "/assets/publications/YAGG.pdf"
     selected: n
+    underreview: n
