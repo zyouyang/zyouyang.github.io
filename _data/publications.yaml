@@ -5,6 +5,14 @@ papers:
   #   venue: "MFPL'23: The Many Facts of Preference-based Learning Workshop @ICML'23"
   #   paper_pdf: "/assets/publications/DAIR.pdf"
   #   selected: y
+  - title: "Scaled Supervision is an Implicit Lipschitz Regularizer"
+    authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Yaning Jia, Soroush Vosoughi"
+    venue: "ICWSM'25: The 20th International AAAI Conference on Web and Social Media"
+    paper_pdf: "/assets/publications/ImpLipReg.pdf"
+    code: "https://github.com/zyouyang/ImpLipReg_CTR.git"
+    selected: y
+    underreview: n
+
   - title: "How to Improve Representation Alignment and Uniformity in Graph-based Collaborative Filtering?"
     authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Shifu Hou, Chuxu Zhang, Yanfang Ye"
     venue: "ICWSM'24: The 18th International AAAI Conference on Web and Social Media"
@@ -25,13 +33,6 @@ papers:
     authors: "<b>Zhongyu Ouyang</b>, Mingxuan Ju, Yanfang Ye"
     venue: "Under Review"
     paper_pdf: "/assets/publications/tagCTR.pdf"
-    selected: y
-    underreview: y
-
-  - title: "Scaled Supervision is an Implicit Lipschitz Regularizer"
-    authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Yaning Jia, Soroush Vosoughi"
-    venue: "Under Review"
-    paper_pdf: "https://anonymous.4open.science/r/ImpLipReg-ACE5/README.md"
     selected: y
     underreview: y
 
@@ -61,7 +62,7 @@ papers:
     authors: "Chunhui Zhang, Yiren Jian, <b>Zhongyu Ouyang</b>, Soroush Vosoughi"
     venue: "The Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)."
     paper_pdf: "/assets/publications/working_memory.pdf"
-    code: ""
+    # code: ""
     selected: y
     underreview: n
 
