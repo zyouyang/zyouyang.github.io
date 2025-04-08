@@ -29,8 +29,8 @@ papers:
     selected: y
     underreview: n
 
-  - title: "Leveraging Graphs to Click-Through Rate Prediction through Test-Time Augmentation"
-    authors: "<b>Zhongyu Ouyang</b>, Mingxuan Ju, Yanfang Ye"
+  - title: "Non-parametric Graph Convolution for Re-ranking in Recommendation Systems"
+    authors: "<b>Zhongyu Ouyang</b>, Mingxuan Ju, Soroush Vosoughi, Yanfang Ye"
     venue: "Under Review"
     paper_pdf: "/assets/publications/tagCTR.pdf"
     selected: y
