@@ -5,6 +5,15 @@ papers:
   #   venue: "MFPL'23: The Many Facts of Preference-based Learning Workshop @ICML'23"
   #   paper_pdf: "/assets/publications/DAIR.pdf"
   #   selected: y
+
+  - title: "Non-parametric Graph Convolution for Re-ranking in Recommendation Systems"
+    authors: "<b>Zhongyu Ouyang</b>*, Mingxuan Ju*, Soroush Vosoughi, Yanfang Ye"
+    venue: "RecSys'25: The 19th ACM Conference on Recommender Systems"
+    paper_pdf: "/assets/publications/NonParametricGC.pdf"
+    code: "https://github.com/zyouyang/RecSys2025_NonParamGC"
+    selected: y
+    underreview: n
+
   - title: "Scaled Supervision is an Implicit Lipschitz Regularizer"
     authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Yaning Jia, Soroush Vosoughi"
     venue: "ICWSM'25: The 20th International AAAI Conference on Web and Social Media"
@@ -29,13 +38,6 @@ papers:
     selected: y
     underreview: n
 
-  - title: "Non-parametric Graph Convolution for Re-ranking in Recommendation Systems"
-    authors: "<b>Zhongyu Ouyang</b>, Mingxuan Ju, Soroush Vosoughi, Yanfang Ye"
-    venue: "Under Review"
-    paper_pdf: "/assets/publications/tagCTR.pdf"
-    selected: y
-    underreview: y
-
   - title: "On the Influence of Connectivity to CTR Prediction"
     authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Yaning Jia, Soroush Vosoughi"
     venue: "Under Review"
@@ -43,8 +45,8 @@ papers:
     selected: y
     underreview: y
 
-  - title: "From Thoughts to Tastes: Modeling Preference Hierarchies for Human-Aligned Sequential Recommendations"
-    authors: Qianlong Wen*, <b>Zhongyu Ouyang*</b>, Chunhui Zhang, Soroush Vosoughi, Yanfang Ye
+  - title: "Towards Human-like Preference Profiling in Sequential Recommendation"
+    authors: "<b>Zhongyu Ouyang</b>*, Qianlong Wen*, Chunhui Zhang, Soroush Vosoughi, Yanfang Ye"
     venue: "Under Review, *Equal Contribution"
     paper_pdf: "/assets/publications/recpo.pdf"
     selected: y

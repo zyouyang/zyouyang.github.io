@@ -191,3 +191,9 @@ h4 {
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
 }
+.chinese-name {
+  font-family: "KaiTi", "STKaiti", "Kaiti SC", serif;
+  font-weight: normal;   /* KaiTi looks best at normal weight */
+  font-size: 1.2em;      /* slightly larger than normal text */
+  color: rgb(4, 76, 4);      /* deep green */
+}
