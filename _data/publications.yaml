@@ -45,7 +45,7 @@ papers:
     selected: y
     underreview: y
 
-  - title: "Towards Human-like Preference Profiling in Sequential Recommendation"
+  - title: "What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context"
     authors: "<b>Zhongyu Ouyang</b>*, Qianlong Wen*, Chunhui Zhang, Soroush Vosoughi, Yanfang Ye"
     venue: "Under Review, *Equal Contribution"
     paper_pdf: "/assets/publications/recpo.pdf"
