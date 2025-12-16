@@ -48,7 +48,7 @@ papers:
   - title: "What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context"
     authors: "<b>Zhongyu Ouyang</b>*, Qianlong Wen*, Chunhui Zhang, Soroush Vosoughi, Yanfang Ye"
     venue: "Under Review, *Equal Contribution"
-    paper_pdf: "/assets/publications/recpo.pdf"
+    paper_pdf: "/assets/publications/RecPO.pdf"
     selected: y
     underreview: y
 
