@@ -6,6 +6,14 @@ papers:
   #   paper_pdf: "/assets/publications/DAIR.pdf"
   #   selected: y
 
+  - title: "What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context"
+    authors: "<b>Zhongyu Ouyang</b>*, Qianlong Wen*, Chunhui Zhang, Soroush Vosoughi, Yanfang Ye"
+    venue: "ACL 2026 Main Oral, *Equal Contribution"
+    paper_pdf: "/assets/publications/RecPO.pdf"
+    code: "https://github.com/zyouyang/RecPO"
+    selected: y
+    underreview: n
+
   - title: "Non-parametric Graph Convolution for Re-ranking in Recommendation Systems"
     authors: "<b>Zhongyu Ouyang</b>*, Mingxuan Ju*, Soroush Vosoughi, Yanfang Ye"
     venue: "RecSys'25: The 19th ACM Conference on Recommender Systems"
@@ -42,13 +50,6 @@ papers:
     authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Yaning Jia, Soroush Vosoughi"
     venue: "Under Review"
     paper_pdf: "/assets/publications/lip_connect.pdf"
-    selected: y
-    underreview: y
-
-  - title: "What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context"
-    authors: "<b>Zhongyu Ouyang</b>*, Qianlong Wen*, Chunhui Zhang, Soroush Vosoughi, Yanfang Ye"
-    venue: "Under Review, *Equal Contribution"
-    paper_pdf: "/assets/publications/RecPO.pdf"
     selected: y
     underreview: y
 
