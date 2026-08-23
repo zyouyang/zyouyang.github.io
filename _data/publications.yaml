@@ -46,12 +46,12 @@ papers:
     selected: y
     underreview: n
 
-  - title: "On the Influence of Connectivity to CTR Prediction"
-    authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Yaning Jia, Soroush Vosoughi"
-    venue: "Under Review"
-    paper_pdf: "/assets/publications/lip_connect.pdf"
+  - title: "The Role of User-Item Connectivity in CTR Prediction"
+    authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Xingjian Diao, Yijun Tian, Soroush Vosoughi"
+    venue: "CIKM'26: The 35th ACM International Conference on Information and Knowledge Management"
+    paper_pdf: "/assets/publications/mpctr.pdf"
     selected: y
-    underreview: y
+    underreview: n
 
   - title: "Pretrained Image-Text Models are Secretly Video Captioners"
     authors: "Chunhui Zhang, Yiren Jian, <b>Zhongyu Ouyang</b>, Soroush Vosoughi"
