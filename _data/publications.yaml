@@ -1,5 +1,12 @@
 papers:
 
+  - title: "The Role of User-Item Connectivity in CTR Prediction"
+    authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Xingjian Diao, Yijun Tian, Soroush Vosoughi"
+    venue: "CIKM'26: The 35th ACM International Conference on Information and Knowledge Management"
+    paper_pdf: "/assets/publications/mpctr.pdf"
+    selected: y
+    underreview: n
+
   # - title: "Dynamic-Calibrated Representation Alignment and Uniformity for Recommendations"
   #   authors: "<b>Zhongyu Ouyang</b>, Shifu Hou, Chunhui Zhang, Chuxu Zhang, Yanfang Ye"
   #   venue: "MFPL'23: The Many Facts of Preference-based Learning Workshop @ICML'23"
@@ -7,7 +14,7 @@ papers:
   #   selected: y
 
   - title: "What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context"
-    authors: "<b>Zhongyu Ouyang</b>*, Qianlong Wen*, Chunhui Zhang, Soroush Vosoughi, Yanfang Ye"
+    authors: "<b>Zhongyu Ouyang</b>*, Qianlong Wen*, Chunhui Zhang, Yanfang Ye, Soroush Vosoughi"
     venue: "ACL 2026 Main Oral, *Equal Contribution"
     paper_pdf: "/assets/publications/RecPO.pdf"
     code: "https://github.com/zyouyang/RecPO"
@@ -43,13 +50,6 @@ papers:
     venue: "ECML PKDD'24: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases"
     paper_pdf: "/assets/publications/SymPrompt.pdf"
     code: "https://github.com/zyouyang/SymPrompt"
-    selected: y
-    underreview: n
-
-  - title: "The Role of User-Item Connectivity in CTR Prediction"
-    authors: "<b>Zhongyu Ouyang</b>, Chunhui Zhang, Xingjian Diao, Yijun Tian, Soroush Vosoughi"
-    venue: "CIKM'26: The 35th ACM International Conference on Information and Knowledge Management"
-    paper_pdf: "/assets/publications/mpctr.pdf"
     selected: y
     underreview: n
 
